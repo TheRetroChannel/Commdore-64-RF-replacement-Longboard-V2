@@ -1,5 +1,7 @@
 # C64 Longboard RF replacement V2
 
+Please note I have created a new RF replacement that further improves on this design. Currently it is only available through my [Tindie store](https://www.tindie.com/products/theretrochannel/arrgh-eff-off-rfoff-commodore-64-and-128/).
+
 ![Board](https://github.com/TheRetroChannel/Commdore-64-RF-replacement-Longboard-V2/blob/main/Images/RF%20V2%20LONGBOARD.jpg)
 
 The RF modulator in the C64 handles amplification and filtering for all video signals (including the ones on the C64 DIN connector). Unfortunately it does a very poor job and this is even more apparent with modern displays and upscalers, even CRTs with their inherent softening can reveal issues with the original RF modulator. One way to signifcantly improve the video output is to replace the RF modulator with a more modern and finely tuned solution, and why not add a few quality of life features while were at it.
