@@ -1,6 +1,4 @@
-# C64 Longboard RF replacement V2
-
-Please note I have created a new RF replacement that further improves on this design. Currently it is only available through my [Tindie store](https://www.tindie.com/products/theretrochannel/arrgh-eff-off-rfoff-commodore-64-and-128/).
+## This project has been superseded by the [RFOFF](https://www.tindie.com/products/36736/) and no further updates or support will be provided. You are welcome to build this RF replacement but I would highly recommend the RFOFF which provides a much better output.
 
 ![Board](https://github.com/TheRetroChannel/Commdore-64-RF-replacement-Longboard-V2/blob/main/Images/RF%20V2%20LONGBOARD.jpg)
 
